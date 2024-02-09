@@ -3,10 +3,10 @@ This is a demo repository for bs23 assessment.
 
 In this application we implement JPA with MySQL, Radis for Cacheing and Kafka for Messaging.
 This application has only four basic api end points.
-/api/get-user/1
-/api/add-user
-/api/update/1
-/api/delete/1
+"/api/get-user/1",
+"/api/add-user",
+"/api/update/1",
+"/api/delete/1"
 
 These api will get, add, update and delete user.
 
